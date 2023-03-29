@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Sharon Nzaya</h1>
-<h3 align="center">I am a skilled developer based in Kenya, with a strong passion for my craft. I possess a diverse skill set that includes both backend and frontend development, as well as experience building both Android and iOS applications. Additionally, I am capable of conducting data analysis when the need arises. I take pride in my work and am dedicated to delivering high-quality solutions that meet the needs of my clients.</h3>
+<h3 align="center">I am a skilled developer based in Kenya, with a strong passion for my craft. I possess a diverse skill set that includes both backend and frontend development, as well as experience building both Android and iOS applications. Additionally, I am capable of conducting data analysis when the need arises. I take pride in my work and I am dedicated to delivering high-quality solutions that meet the needs of my clients.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nzaya&label=Profile%20views&color=0e75b6&style=flat" alt="nzaya" /> </p>
